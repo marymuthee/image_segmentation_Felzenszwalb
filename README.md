@@ -48,9 +48,4 @@ Felzenszwalb, P. F., & Huttenlocher, D. P. (2004).
 *Efficient graph-based image segmentation.*  
 **International Journal of Computer Vision**, 59(2), 167–181.
 
-[LinkedIn](https://www.linkedin.com/in/mary-muthee-b91932201/) · [Twitter](https://twitter.com/_marymuthee)
-
----
-
-## 📂 Repository Structure
 
