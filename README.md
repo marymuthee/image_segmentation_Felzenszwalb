@@ -1,5 +1,6 @@
 # Object-Based Image Segmentation using the Felzenszwalb Algorithm
 
+![Current OBIA](OBIA.png)
 This repository demonstrates how **object-based image segmentation** can be performed in Python using the **Felzenszwalb graph-based algorithm**, replicating the **multiresolution segmentation** approach implemented in *eCognition*.  
 The workflow applies to a Sentinel-2A subset and aims to delineate meaningful land-cover objects such as **vegetation**, **water**, and **built-up areas**.
 
